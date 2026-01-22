@@ -116,10 +116,6 @@ go build -o bin/user-service
 
 API documentation available at `http://localhost:8080/docs` after starting the services.
 
-## 📄 License
 
-This project is for educational purposes.
-
----
 
 **Built with ❤️ using Go**
